@@ -6,3 +6,4 @@ This repository contains python-based teaching material used for the [introducto
 
 - Use the <a href="https://mybinder.org/v2/gh/mariapetro/intro_to_astro/master" >  binder enviroment created for this course </a>
 - Install <a href="https://docs.jupyter.org/en/latest/install/notebook-classic.html" >  jupyter notebook  </a> in your PC
+
